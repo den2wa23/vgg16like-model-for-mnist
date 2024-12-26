@@ -21,6 +21,7 @@ numpyのみを用いてCNNの分類タスクを行った.VGG16と呼ばれるモ
 - predict.ipynb 予測用のノートブック
 ## result
 testデータの精度が0.9903.
+![Screenshot from 2024-12-27 01-19-25](https://github.com/user-attachments/assets/836da028-b792-4c55-9861-a3991c18a1b2)
 
 
 

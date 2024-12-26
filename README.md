@@ -9,6 +9,7 @@ numpyのみを用いてCNNの分類タスクを行った.VGG16と呼ばれるモ
 
 ## model
 バッチ正規化をConvolution層のブロック間に配置して最終層に全結合層を配置.
+![IMG_1115](https://github.com/user-attachments/assets/73c23b3d-39d9-4fef-ac81-63f45f971cc3)
 
 ## files
 - Activation_func.py softmax関数 
